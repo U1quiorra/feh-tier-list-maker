@@ -1,0 +1,1 @@
+,{"hero_id":225,"name":"Lissa (Xmas)","basehp":18,"baseatk":7,"basespd":9,"basedef":8,"baseres":6,"maxhp":0,"maxatk":0,"maxspd":0,"maxdef":0,"maxres":0,"hpgrowth":6,"atkgrowth":7,"spdgrowth":8,"defgrowth":6,"resgrowth":6,"color":"green","weapontype":"axe","movetype":"armored","minrarity":5}

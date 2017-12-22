@@ -1,1 +1,0 @@
-# feh-tier-list-maker
